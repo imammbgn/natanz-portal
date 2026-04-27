@@ -1,0 +1,15 @@
+# Dependency
+node_modules/
+dist/
+
+# Env - WAJIB IGNORE
+.env
+
+# Build files (Addon)
+server/addon/build/
+*.node
+
+# OS files
+.DS_Store
+Thumbs.db
+
