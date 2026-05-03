@@ -2,7 +2,6 @@
 node_modules/
 dist/
 
-# Env - WAJIB IGNORE
 .env
 
 # Build files (Addon)
