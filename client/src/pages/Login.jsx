@@ -56,7 +56,7 @@ export default function Login() {
           <div className="auth-v2-form-container">
             {/* Title */}
             <div className="auth-v2-title-section">
-              <h2>Welcome to Natanz</h2>
+              <h2>Natanz Customer Portal</h2>
             </div>
 
             {/* SSO Buttons */}
